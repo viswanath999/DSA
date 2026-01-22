@@ -15,7 +15,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        String input = sc.nextLine();      // "[1,1,2]"
+        String input = sc.nextLine();   
         input = input.replace("[", "").replace("]", "");
 
         String[] parts = input.split(",");

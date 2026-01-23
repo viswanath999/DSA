@@ -2,7 +2,7 @@ import java.util.*;
 class Solution {
     public int majorityElement(int[] nums) {
         int leader=nums[0];
-        int majority=1;
+        int majority=0;
         for(int i=0;i<nums.length;i++){
             if(majority==0){
                 leader=nums[i];

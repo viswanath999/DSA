@@ -22,4 +22,8 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/viswanath999/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/viswanath999/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/viswanath999/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/viswanath999/DSA/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->

@@ -30,6 +30,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/viswanath999/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0141-linked-list-cycle](https://github.com/viswanath999/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/viswanath999/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/viswanath999/DSA/tree/main/0206-reverse-linked-list/) | Easy |
@@ -41,6 +42,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/viswanath999/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/viswanath999/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/viswanath999/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Hash Table
@@ -57,4 +59,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/viswanath999/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/viswanath999/DSA/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->

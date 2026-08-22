@@ -16,6 +16,7 @@
 | [0031-next-permutation](https://github.com/viswanath999/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0141-linked-list-cycle](https://github.com/viswanath999/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/viswanath999/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/viswanath999/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/viswanath999/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/viswanath999/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/viswanath999/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -33,6 +34,7 @@
 | [0002-add-two-numbers](https://github.com/viswanath999/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0141-linked-list-cycle](https://github.com/viswanath999/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/viswanath999/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/viswanath999/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/viswanath999/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/viswanath999/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/viswanath999/DSA/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
@@ -50,6 +52,7 @@
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/viswanath999/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/viswanath999/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/viswanath999/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |

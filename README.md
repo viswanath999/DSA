@@ -9,6 +9,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/viswanath999/DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/viswanath999/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/viswanath999/DSA/tree/main/0162-find-peak-element/) | Medium |
+| [0496-next-greater-element-i](https://github.com/viswanath999/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/viswanath999/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -53,6 +54,7 @@
 | [0141-linked-list-cycle](https://github.com/viswanath999/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/viswanath999/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/viswanath999/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0496-next-greater-element-i](https://github.com/viswanath999/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,8 +64,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/viswanath999/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0496-next-greater-element-i](https://github.com/viswanath999/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/viswanath999/DSA/tree/main/0002-add-two-numbers/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/viswanath999/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->

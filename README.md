@@ -63,6 +63,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/viswanath999/DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/viswanath999/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/viswanath999/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 ## Math
@@ -73,4 +74,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/viswanath999/DSA/tree/main/0496-next-greater-element-i/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/viswanath999/DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/viswanath999/DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
 <!---LeetCode Topics End-->

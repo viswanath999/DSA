@@ -63,6 +63,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/viswanath999/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0225-implement-stack-using-queues](https://github.com/viswanath999/DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/viswanath999/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/viswanath999/DSA/tree/main/0496-next-greater-element-i/) | Easy |
@@ -82,4 +83,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/viswanath999/DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/viswanath999/DSA/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/viswanath999/DSA/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
